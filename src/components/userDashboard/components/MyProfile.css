@@ -1,0 +1,36 @@
+/* Profile info */
+.profile-img {
+  width: 100px;
+  height: 110px;
+}
+.upload-btn {
+  background-color: #3ad08f;
+  color: #fff;
+  padding: 6px 15px;
+  border-radius: 35px;
+}
+.remove-btn {
+  background-color: #848484;
+  padding: 5px 15px;
+  border-radius: 30px;
+}
+
+/* Your Complaints */
+.profile-complaints {
+  font-size: 20px;
+  color: #7c7b85;
+  border-right: 1px solid #7c7b85;
+  padding-right: 20px;
+}
+.profile-supports {
+  font-size: 20px;
+  color: #7c7b85;
+  border-right: 1px solid #7c7b85;
+  padding-right: 20px;
+  padding-left: 10px;
+}
+.profile-comments {
+  font-size: 20px;
+  color: #7c7b85;
+  padding-left: 10px;
+}

@@ -1,0 +1,65 @@
+ [
+  {
+    "id": 1,
+    "name": "Banvi",
+    "subName": "Ranking has not changed",
+    "img": "https://files.sikayetvar.com/lg/cmp/87/872.svg?1522650125",
+    "rating": 3.8
+  },
+  {
+    "id": 2,
+    "name": "Carte d'Or",
+    "subName": "3 rows up",
+    "img": "https://files.sikayetvar.com/lg/cmp/95/9547.svg?1522650125",
+    "rating": 3.5
+  },
+  {
+    "id": 3,
+    "name": " Panda Ice Creams",
+    "subName": "Ranking has not changed",
+    "img": "https://files.sikayetvar.com/lg/cmp/27/2763.png?1638985139",
+    "rating": 3.2
+  },
+  {
+    "id": 4,
+    "name": " Golf",
+    "subName": "3 rows down",
+    "img": "https://files.sikayetvar.com/lg/cmp/40/40247.jpg?1522650125",
+    "rating": 3
+  },
+  {
+    "id": 5,
+    "name": "Perception ",
+    "subName": "Ranking has not changed",
+    "img": "https://files.sikayetvar.com/lg/cmp/59/5994.png?1639752938",
+    "rating": 2.5
+  },
+  {
+    "id": 6,
+    "name": " Lezita ",
+    "subName": "1 rows up",
+    "img": "https://files.sikayetvar.com/lg/cmp/77/7717.png?1524665478",
+    "rating": 2.1
+  },
+  {
+    "id": 7,
+    "name": "magunm",
+    "subName": "2 rows down",
+    "img": "https://files.sikayetvar.com/lg/cmp/89/8901.svg?1522650125",
+    "rating": 1.4
+  },
+  {
+    "id": 8,
+    "name": " CP Pilic",
+    "subName": "Ranking has no chnaged",
+    "img": "https://files.sikayetvar.com/lg/cmp/45/4546.jpg?1553846438",
+    "rating": 1.3
+  },
+  {
+    "id": 9,
+    "name": "HasTavuk",
+    "subName": "Ranking has no changed",
+    "img": "https://files.sikayetvar.com/lg/cmp/67/67336.png?1522650125",
+    "rating": 1.3
+  }
+]

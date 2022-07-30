@@ -1,0 +1,10 @@
+.profile-body {
+  background-color: #f4f5f9;
+  border-radius: 37px 0 0 37px;
+}
+@media (max-width: 1023px) {
+  .profile-body {
+    background-color: #f4f5f9;
+    border-radius: 0;
+  }
+}
